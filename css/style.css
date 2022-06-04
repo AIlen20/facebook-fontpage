@@ -1,0 +1,200 @@
+.container-field{
+   
+    width: 100%;
+    height: auto;
+    background-color: rgb(227, 233, 236);
+    
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.container{
+    width: 100%;
+    height: 120vh;
+    padding: 40px;
+    margin-top: 40px;
+}
+
+.col{
+    height: 50vh;
+    margin-top: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.col h1{
+    color: rgb(39, 39, 212);
+    font-family: 'Segoe UI';
+    font-weight: bolder;
+}
+.col h2{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.col p{
+    color: rgb(152, 163, 163);
+    
+}
+
+.card-body{
+    background-color: white;
+    background-size: cover;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 15px;
+}
+.form{
+    width: 50%;
+    height: 55vh;
+    margin: 20px;
+    padding: 20px;
+    background-color: blue;
+    
+}
+.card{
+    background-color: white;
+    border-radius: 15px;
+
+}
+.card-body input{
+    height: 55px;
+    background-color: rgb(189, 199, 202);
+    border-radius: 10px;
+}
+.card-body .btn{
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+    border-radius: 10px;
+}
+.card-body a p{
+    text-align: center;
+    color: blue;
+    margin: 20px;
+}
+.btn2 {
+    background-color: rgb(48, 235, 48);
+    margin:auto;
+    padding: 10px;
+    color: white;
+    border:none;
+}
+.button1{
+    width: 50%;
+    height: 60px;
+    background-color: rgb(48, 235, 48);
+    color: white;
+    font-size: 20px;
+    margin-bottom: 50px;
+    font-family: Arial;
+    text-align: center;
+    border: none;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+
+.col a{
+    text-decoration: none;
+}
+.demo{
+    height: 20vh;
+    text-decoration: none;
+    color: grey;
+    font-weight: lighter;
+    font-size: small;
+   
+}
+
+.modal-header{
+    width: 90%;
+    height: 90px;
+   
+    
+}
+.modal-header h3{
+    float: left;
+    font-weight: bolder;
+    font-family: Arial, sans-serif;
+}
+.modal-text p{
+    float: left;
+    margin: 30px;
+    font-weight: normal;
+}
+.modal-header input{
+    width: 30%;
+    height: 40px;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+.modal-body{
+    width: 90%;
+    height: 60vh;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+}
+
+.div{
+    float: left;
+    background-color: white;
+}
+.div label{
+    font-size: small;
+    font-style: normal;
+    font-weight: bold;
+    text-align: left;
+    background-color: white;
+}
+.div select{
+    width: 28%;
+    height: 40px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    float: left;
+    
+}
+.input-group label{
+    font-size: small;
+    font-style: normal;
+    font-weight: bold;
+    text-align: left;
+   
+}
+.input-group input{
+    width: 13%;
+    height: 20px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 2px;
+    float: left;
+    
+}
+.modal-body .input-1{
+    width: 80%;
+    margin: 0;
+    padding: 0px;
+    border-radius: 10px;
+}
+.modal-body .mb-3{
+    width: 80%;
+    
+    border-radius: 10px;
+}
+.input-group p{
+    font-size: smaller;
+    font-style: normal;
+    font-weight: lighter;
+   
+} 
+.container-field a {
+    text-decoration: none;
+    text-align: center;
+    color: gray;
+    
+}
+
